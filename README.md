@@ -8,7 +8,7 @@ The repository is organised in folders:
 - '/figures' contains the plots I have produced during the model validation process
 - 'requirements.txt' lists all the required packages to run the notebooks in this repository.
   
-This repository run predictions on 1000 molecules using Ersilia Model BayeshERG with EOS model ID: eos4tcc
+This repository run predictions on 1000 clean and standardised molecules using Ersilia Model BayeshERG with EOS model ID: eos4tcc
 
 BayeshERG is a robust, reliable and interpretable deep learning model for predicting hERG channel blockers. 
 
