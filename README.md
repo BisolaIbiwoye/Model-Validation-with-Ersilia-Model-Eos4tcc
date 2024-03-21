@@ -10,9 +10,13 @@ The repository is organised in folders:
   
 This repository run predictions on 1000 clean and standardised molecules using Ersilia Model BayeshERG with EOS model ID: eos4tcc
 
-BayeshERG is a robust, reliable and interpretable deep learning model for predicting hERG channel blockers. 
+The BayeshERG is developed with the python v3.6 and following packages: dgl, pytorch, and rdkit.
 
-The BayeshERG is developed with the python v3.6 and following packages:dgl, pytorch, and rdkit.
+A csv file was retrieved from the [author's implementation] (https://github.com/GIST-CSBL/BayeshERG/tree/main) for model reproducibility. 
+
+The author's implementation stated in the [README.md](https://github.com/GIST-CSBL/BayeshERG/blob/main/README.md) file was followed step by step.
+
+I reproduced the author's accuracy score as found in the [publication.](https://academic.oup.com/bib/article/23/4/bbac211/6609519?login=false#366570855)
 
 **CITATION**
 
