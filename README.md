@@ -12,7 +12,7 @@ This repository run predictions on 1000 clean and standardised molecules using E
 
 The BayeshERG is developed with the python v3.6 and following packages: dgl, pytorch, and rdkit.
 
-A csv file was retrieved from the [author's implementation] (https://github.com/GIST-CSBL/BayeshERG/tree/main) for model reproducibility. 
+A csv file was retrieved from the [author's implementation](https://github.com/GIST-CSBL/BayeshERG/tree/main) for model reproducibility. 
 
 The author's implementation stated in the [README.md](https://github.com/GIST-CSBL/BayeshERG/blob/main/README.md) file was followed step by step.
 
